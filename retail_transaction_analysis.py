@@ -1,16 +1,3 @@
-"""
-Retail Transaction Insights - Data Analysis Project
-====================================================
-
-A comprehensive data analysis tool for a nationwide retail chain to uncover
-actionable insights from transaction records. Analyzes customer behavior,
-seasonal trends, promotional effectiveness, and strategic performance metrics.
-
-Author: Data Analysis Team
-Date: November 29, 2025
-Version: 1.0
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -628,3 +615,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
